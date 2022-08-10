@@ -7,3 +7,7 @@ Tuesday:
 Managed to pull through for a first initial day with a few work colluegues 
 Learnt all about Git and Version control, a swift catch up and refresher
 
+Wednesday: 
+took the day to prepare for a final presentation for the IACD
+spent half the day with Rvan trying to fix code and design the slides
+
