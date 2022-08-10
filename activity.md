@@ -11,3 +11,7 @@ Wednesday:
 took the day to prepare for a final presentation for the IACD
 spent half the day with Rvan trying to fix code and design the slides
 
+Thursday:
+Presented UCT app concept for the student showcase.
+Got to work on my breaking bad App and putting the presentation together.
+Got to go enjoy an evening of football
