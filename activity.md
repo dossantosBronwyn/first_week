@@ -15,3 +15,7 @@ Thursday:
 Presented UCT app concept for the student showcase.
 Got to work on my breaking bad App and putting the presentation together.
 Got to go enjoy an evening of football
+
+Friday: 
+Presented the breaking bad and who I am to my fellow collegues 
+called it a day and hit some video games! :D
